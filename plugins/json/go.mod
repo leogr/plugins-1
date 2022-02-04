@@ -1,4 +1,4 @@
-module github.com/leogr/plugins-1/json
+module github.com/leogr/plugins-1/plugins/json
 
 go 1.15
 
