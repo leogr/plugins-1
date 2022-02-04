@@ -1,4 +1,4 @@
-module github.com/falcosecurity/plugins/json
+module github.com/leogr/plugins-1/json
 
 go 1.15
 
